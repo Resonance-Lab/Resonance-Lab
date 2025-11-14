@@ -1,9 +1,12 @@
+# -*- coding: utf-8 -*-
 """
 
-* Insititute: Resonance Quantitative Research Lab
-* Author: Songhuai Zhang(CUHK), Riptude Chan(USTC)
-* Location: Hong Kong, China
-* Date: 2025-11-05
+@Project  :  Resonance Quantitative Research Lab —— 因子算子
+@Author   :  Songhuai
+@Version  :  1.0.0
+@Contact  :  1155238565@link.cuhk.edu.hk
+@Location :  Hong Kong, China
+@Date     :  2025-11-14
 
 """
 
